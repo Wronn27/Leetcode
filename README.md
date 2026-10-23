@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Wronn27/Leetcode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Wronn27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Wronn27/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Wronn27/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Wronn27/Leetcode/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Wronn27/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Wronn27/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Wronn27/Leetcode/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Wronn27/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Wronn27/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/Wronn27/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Wronn27/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0547-number-of-provinces](https://github.com/Wronn27/Leetcode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Wronn27/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Wronn27/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Wronn27/Leetcode/tree/master/3310-remove-methods-from-project) |
